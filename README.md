@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Yahaya Salisu</h3>
+<h3 align="center">Hi, I'm Yahaya Salisu</h3>
 <h4 align="center">Smart Contract Auditor | Solidity Developer | Community Moderator</h4>
 
 <p align="center">
