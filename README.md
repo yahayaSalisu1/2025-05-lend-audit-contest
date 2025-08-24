@@ -1,64 +1,80 @@
-# LEND contest details
+<h1 align="center">Hi 👋, I'm Yahaya Salisu</h1>
+<h3 align="center">Smart Contract Auditor | Solidity Developer | Community Moderator</h3>
 
-- Join [Sherlock Discord](https://discord.gg/MABEWyASkp)
-- Submit findings using the **Issues** page in your private contest repo (label issues as **Medium** or **High**)
-- [Read for more details](https://docs.sherlock.xyz/audits/watsons)
-
-# Q&A
-
-### Q: On what chains are the smart contracts going to be deployed?
-Base
-Ethereum
-Sonic
-Monad
-BNB
-___
-
-### Q: If you are integrating tokens, are you allowing only whitelisted tokens to work with the codebase or any complying with the standard? Are they assumed to have certain properties, e.g. be non-reentrant? Are there any types of [weird tokens](https://github.com/d-xo/weird-erc20) you want to integrate?
-Whitelisted only (e.g BTC, ETH, USDC, DAI, USDT). ERC20 standard.
-___
-
-### Q: Are there any limitations on values set by admins (or other roles) in the codebase, including restrictions on array lengths?
-Owner is trusted
-___
-
-### Q: Are there any limitations on values set by admins (or other roles) in protocols you integrate with, including restrictions on array lengths?
-No, governance is trusted.
-___
-
-### Q: Is the codebase expected to comply with any specific EIPs?
-No.
-___
-
-### Q: Are there any off-chain mechanisms involved in the protocol (e.g., keeper bots, arbitrage bots, etc.)? We assume these mechanisms will not misbehave, delay, or go offline unless otherwise specified.
-No
-___
-
-### Q: What properties/invariants do you want to hold even if breaking them has a low/unknown impact?
-No
-___
-
-### Q: Please discuss any design choices you made.
-N/A
-___
-
-### Q: Please provide links to previous audits (if any).
-N/A
-___
-
-### Q: Please list any relevant protocol resources.
-All links on site https://www.lend.finance/
-___
-
-### Q: Additional audit information.
-Builds on top of Compound V2.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yahaya-Salisu&label=Profile%20views&color=blue&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Solidity-Audit-informational?style=flat&logo=ethereum&color=orange" />
+  <img src="https://img.shields.io/badge/Community%20Mod-Active-blueviolet" />
+  <img src="https://img.shields.io/badge/Web3-Contributor-brightgreen" />
+</p>
 
 
-# Audit scope
+About Me
 
-[Lend-V2 @ 5c9398fef079319ecc4e8457b11533d0d8838ee0](https://github.com/tenfinance/Lend-V2/tree/5c9398fef079319ecc4e8457b11533d0d8838ee0)
-- [Lend-V2/src/LayerZero/CoreRouter.sol](Lend-V2/src/LayerZero/CoreRouter.sol)
-- [Lend-V2/src/LayerZero/CrossChainRouter.sol](Lend-V2/src/LayerZero/CrossChainRouter.sol)
-- [Lend-V2/src/LayerZero/LendStorage.sol](Lend-V2/src/LayerZero/LendStorage.sol)
+I'm a Smart Contract Auditor and Solidity Developer with strong experience in community management. I’ve built and audited contracts across various DeFi protocols such as:
+
+- *DEXs*
+- *Lending platforms*
+- *Staking systems*
+- *NFT marketplaces*
+- *Reward vaults*
+- *RWA & custom tokenomics*
+
+As a *community moderator*, I help onboard users, answer technical questions, and guide beginners through complex DeFi and trading concepts — especially in *prop firm* and *crypto trading* communities.
+
+---
+
+Tools & Techniques
+
+- *Slither* – static analysis
+- - *Manual code review* – (*strongest skill*)  
+- *Remix* – quick testing & debugging  
+- *Foundry* – unit testing, fuzzing, forking, PoCs  
+
+---
+
+🪓 Vulnerabilities I’ve Found
+
+- Contract Hijack in lending protocol  
+- Access Control bypass  
+- False deposits and over-redemption in staking  
+- Over-borrowing & over-repay logic flaws  
+- Unauthorized fee deductions in DEX  
+
+---
+
+GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yahaya-Salisu&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yahaya-Salisu&theme=radical" />
+</p>
+
+---
+
+GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yahaya-Salisu&theme=radical&row=1&no-bg=true&margin-w=15" />
+</p>
+
+---
+
+ Availability
+
+- Full-time (Remote or Hybrid)  
+- Part-time or Freelance  
+- Bug Bounty & Audit Collaboration  
+- Community Moderator (Crypto/Trading/DeFi Servers)
+
+ *Affordable pricing: per-contract | per-hour | per-week*
 
 
+
+Contact Me
+
+ [WhatsApp](https://wa.me/qr/AOJIRGL4JCO7D1)
+ [LinkedIn](https://www.linkedin.com/in/yahaya-salisu)
+ [Twitter/X](https://x.com/Babs_Crypto1?t=Vc6SgVuVgS8FxbVUZZXHVw&s=09)
+- Discord: *@babs_audits*  
+- Email: yahayasalisubabs@gmail.com
