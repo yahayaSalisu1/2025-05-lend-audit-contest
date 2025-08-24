@@ -9,9 +9,13 @@
   <img src="https://img.shields.io/badge/Web3-Contributor-brightgreen" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yahaya-Salisu&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yahaya-Salisu&theme=radical" />
+</p>
 
-About Me
 
+## About Me
 I'm a Smart Contract Auditor and Solidity Developer with strong experience in community management. I’ve built and audited contracts across various DeFi protocols such as:
 
 - *DEXs*
@@ -21,38 +25,26 @@ I'm a Smart Contract Auditor and Solidity Developer with strong experience in co
 - *DAOs*
 - *RWA & custom tokenomics*
 
+
 As a *community moderator*, I help onboard users, answer technical questions, and guide beginners through complex DeFi and trading concepts, especially in *prop firm* and *crypto trading* communities.
 
----
 
-Tools & Techniques
-
+## Tools & Techniques
 - *Slither* – static analysis
 - - *Manual code review* – (*strongest skill*)  
 - *Remix* – quick testing & debugging  
 - *Foundry* – unit testing, fuzzing, forking, PoCs  
 
----
 
-🪓 Vulnerabilities I’ve Found
-
+## Vulnerabilities I’ve Found
 - Contract Hijack in lending protocol  
 - Access Control bypass  
 - False deposits and over-redemption in staking  
 - Over-borrowing & over-repay logic flaws  
 - Unauthorized fee deductions in DEX  
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yahaya-Salisu&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yahaya-Salisu&theme=radical" />
-</p>
-
----
-
- Availability
-
+## Availability
 - Full-time (Remote or Hybrid)  
 - Part-time or Freelance  
 - Bug Bounty & Audit Collaboration  
@@ -61,10 +53,8 @@ Tools & Techniques
  *Affordable pricing: per-contract | per-hour | per-week*
 
 
-
-Contact Me
-
- [WhatsApp](https://wa.me/qr/AOJIRGL4JCO7D1)
+## Contact Me
+[WhatsApp](https://wa.me/qr/AOJIRGL4JCO7D1)
  [LinkedIn](https://www.linkedin.com/in/yahaya-salisu)
  [Twitter/X](https://x.com/Babs_Crypto1?t=Vc6SgVuVgS8FxbVUZZXHVw&s=09)
 - Discord: *@babs_audits*  
