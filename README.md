@@ -36,12 +36,23 @@ As a *community moderator*, I help onboard users, answer technical questions, an
 - **Foundry** for unit testing, fuzzing, forking, and PoCs  
 
 
-### Vulnerabilities I’ve Found
+### Audit Track Record
 - Contract Hijack in lending protocol  
 - Access Control bypass  
 - False deposits and over-redemption in staking  
 - Over-borrowing & over-repay logic flaws  
 - Unauthorized fee deductions in DEX  
+
+
+### Development Track Record
+- Developed a fully functional ERC20 token.
+- Developed ERC721 with batch mint.
+- Refactored fixed reward staking protocol.
+- Transformed fiat-backed lending protocol to crypto-backed.
+
+
+### Moderation Track Record
+- Currently volunteering at Goat funded trader and FundedNext discord servers.
 
 
 ### Availability
@@ -50,7 +61,7 @@ As a *community moderator*, I help onboard users, answer technical questions, an
 - Bug Bounty & Audit Collaboration  
 - Community Moderator (Crypto/Forex Trading, Prop firms, or DeFi Servers)
 
- *Affordable pricing: per-contract | per-hour | per-week*
+ *Affordable pricing: per-contract | per-hour | per-week | per-month*
 
 
 ### Contact Me
