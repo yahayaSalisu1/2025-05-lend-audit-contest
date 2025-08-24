@@ -56,6 +56,6 @@ As a *community moderator*, I help onboard users, answer technical questions, an
 ### Contact Me
 [WhatsApp](https://wa.me/qr/AOJIRGL4JCO7D1)
 | [LinkedIn](https://www.linkedin.com/in/yahaya-salisu)
-| [Twitter/X](https://x.com/BabsAudits?t=Vc6SgVuVgS8FxbVUZZXHVw&s=09)
+| [Twitter/X](https://x.com/BABS96711?t=Vc6SgVuVgS8FxbVUZZXHVw&s=09)
 - Discord: *@babs_audits*  
 - Email: yahayasalisubabs@gmail.com
