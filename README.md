@@ -48,14 +48,14 @@ As a *community moderator*, I help onboard users, answer technical questions, an
 - Full-time (Remote or Hybrid)  
 - Part-time or Freelance  
 - Bug Bounty & Audit Collaboration  
-- Community Moderator (Crypto/Trading/DeFi Servers)
+- Community Moderator (Crypto/Forex Trading, Prop firms, or DeFi Servers)
 
  *Affordable pricing: per-contract | per-hour | per-week*
 
 
 ## Contact Me
 [WhatsApp](https://wa.me/qr/AOJIRGL4JCO7D1)
- [LinkedIn](https://www.linkedin.com/in/yahaya-salisu)
- [Twitter/X](https://x.com/Babs_Crypto1?t=Vc6SgVuVgS8FxbVUZZXHVw&s=09)
+| [LinkedIn](https://www.linkedin.com/in/yahaya-salisu)
+| [Twitter/X](https://x.com/Babs_Crypto1?t=Vc6SgVuVgS8FxbVUZZXHVw&s=09)
 - Discord: *@babs_audits*  
 - Email: yahayasalisubabs@gmail.com
