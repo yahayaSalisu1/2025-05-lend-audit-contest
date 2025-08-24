@@ -3,8 +3,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yahaya-Salisu&label=Profile%20views&color=blue&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Solidity-Audit-informational?style=flat&logo=ethereum&color=orange" />
-  <img src="https://img.shields.io/badge/Community%20Mod-Active-blueviolet" />
+  <img src="https://img.shields.io/badge/Smart-Contract-Auditor-informational?style=flat&logo=ethereum&color=orange" />
+<img src="https://img.shields.io/badge/Solidity-Developer-informational?style=flat&logo=ethereum&color=orange" />
+  <img src="https://img.shields.io/badge/Community%20Modarator-Active-blueviolet" />
   <img src="https://img.shields.io/badge/Web3-Contributor-brightgreen" />
 </p>
 
