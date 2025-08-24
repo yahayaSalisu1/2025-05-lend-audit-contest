@@ -30,10 +30,10 @@ As a *community moderator*, I help onboard users, answer technical questions, an
 
 
 ## Tools & Techniques
-- *Slither* – static analysis
-- - *Manual code review* – (*strongest skill*)  
-- *Remix* – quick testing & debugging  
-- *Foundry* – unit testing, fuzzing, forking, PoCs  
+- *Slither* for static analysis
+- *Manual code review* (*strongest skill*)  
+- *Remix* for quick testing & debugging  
+- *Foundry* for unit testing, fuzzing, forking, and PoCs  
 
 
 ## Vulnerabilities I’ve Found
