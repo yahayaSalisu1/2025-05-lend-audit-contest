@@ -19,6 +19,7 @@
 I'm a Smart Contract Auditor and Solidity Developer with strong experience in community management. I’ve built and audited contracts across various DeFi protocols such as:
 
 - *DEXs*
+
 - *Lending platforms*
 - *Staking systems*
 - *NFT marketplaces*
@@ -30,6 +31,7 @@ As a *community moderator*, I help onboard users, answer technical questions, an
 
 
 ### Tools & Techniques
+
 - *Slither* for static analysis
 - *Manual code review* (*strongest skill*)  
 - *Remix* for quick testing & debugging  
